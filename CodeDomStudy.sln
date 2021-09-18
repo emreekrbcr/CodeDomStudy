@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeDomStudy", "CodeDomStudy\CodeDomStudy.csproj", "{90B41931-BA5B-4373-97CE-B24F850A8120}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90B41931-BA5B-4373-97CE-B24F850A8120}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90B41931-BA5B-4373-97CE-B24F850A8120}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90B41931-BA5B-4373-97CE-B24F850A8120}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90B41931-BA5B-4373-97CE-B24F850A8120}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {08D31ECC-1485-4306-BA97-A3B15FD818A0}
+	EndGlobalSection
+EndGlobal
